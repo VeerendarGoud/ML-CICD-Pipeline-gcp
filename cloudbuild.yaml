@@ -16,5 +16,5 @@ steps:
   args:
   - run
   - --filename=K8s/
-  - --location=us-central1-f
-  - --cluster=my-autopilot-cluster
+  - --location=us-central1-c
+  - --cluster=vison-app-cl
